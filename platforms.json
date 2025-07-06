@@ -263,28 +263,5 @@
     "MKR", "MNT", "mPEPE", "NEAR", "ONDO", "OP", "POL", "PYTH", "SEI", "SNX",
     "SOL", "SUI", "S", "TON", "TRUMP", "TRX", "TIA", "WIF", "WLD", "XRP"
     ]
-  },
-  {
-  "platform": "Deriw",
-    "type": "合约",
-    "pairs": [
-      "BTC", "ETH", "SOL", "XRP", "SUI", "SHELL", "VANA", "ALCH", "ARC", "LAYER",
-      "BNB", "LTC", "S", "ARB", "PEPE", "SHIB", "FLOKI", "OP", "APE", "IMX",
-      "CFX", "DOGE", "AVAX", "ADA", "LINK", "POL", "NEAR", "FIL", "INJ", "RENDER",
-      "TIA", "SEI", "STRK", "ORDI", "AXL", "DYDX", "PYTH", "WLD", "DYM", "JUP",
-      "CAKE", "MANTA", "PENDLE", "ALT", "XAI", "WIF", "W", "JTO", "AEVO", "ENA",
-      "MEME", "ETHFI", "APT", "BOME", "STX", "ARKM", "RUNE", "TNSR", "UNI", "CHZ",
-      "LDO", "ZRO", "DOT", "ZK", "IO", "BLUR", "AAVE", "MKR", "TAO", "TON", "NOT",
-      "BONK", "CATI", "EIGEN", "DOGS", "TURBO", "BABYDOGE", "SCR", "SAGA", "HMSTR",
-      "POPCAT", "UXLINK", "ACT", "PNUT", "MOODENG", "GOAT", "DEGEN", "HIPPO",
-      "CHILLGUY", "ONDO", "BAN", "GRASS", "ME", "XLM", "CHEEMS", "PENGU",
-      "USUAL", "VIRTUAL", "COW", "BIO", "AI16Z", "TRUMP","BMT", "BR", "MUBARAK",
-      "MELANIA", "GRIFFAIN", "BERA", "CGPT", "KAITO", "IP", "TRB", "BCH",
-      "FET", "ENS", "PEOPLE", "CRV", "GALA", "STORJ", "RED", "PARTI",
-      "PROMPT", "BANANAS31", "BROCCOLI714", "SIREN", "BABY", "WAL", "FARTCOIN", "RFC", "BIGTIME",
-      "ATH", "TUT", "PAXG", "REZ", "MEW","SIGN","SOLAYER","SKYAI","ZEREBRO","KILO","LISTA",
-      "BROCCOLIF3B", "STO", "NXPC", "B2","B","INIT","REX",
-      "MASK", "GAS", "COMP", "1INCH", "1000SATS", "HYPE", "MOVE", "NEIRO", "AIXBT", "SONIC"
-      ]
-    },
+  }
 ]
