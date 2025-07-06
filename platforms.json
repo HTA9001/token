@@ -21,6 +21,18 @@
       "BROCCOLIF3B", "STO", "NXPC", "B2","B","INIT","REX"
     ]
   },
+
+   {
+    "platform": "kiloex-BSC",
+    "type": "合约",
+    "pairs": [
+      "BTC", "ETH", "BNB", "SOL", "B2", "HOME", "KILO", "LTC", "ARB", "OP",
+      "XRP", "DOGE", "AVAX", "LINK", "SUI", "STRK", "USD", "DYDX", "JUP", "TRUMP",
+      "MUBARAK", "BR", "BMT", "REZ", "PAXG", "TUT", "ATH", "PARTI", "STO", "FARTCOIN",
+      "WAL", "BABY", "SIREN", "BANANAS31", "PROMPT", "KERNEL", "LISTA", "SIGN", "NXPC", "INIT",
+      "SOPH", "SYRUP", "JANITOR", "EGL1", "1000TAG", "LIBERTY", "EUR", "GBP", "MXN", "TRY"
+    ]
+  },
   
   {
     "platform": "Gate-多币",
@@ -249,9 +261,10 @@
     ]
   },
   {
-    "platform": "myx",
+    "platform": "myx-bsc",
     "type": "合约",
-    "pairs": ["ETH", "BNB", "BTC", "RFC", "titcoin"]
+    "pairs": ["BTC", "ETH", "BNB", "MYX", "RFC", "titcoin", "DARK", "PARTI", "SKYAI", "HOUSE",
+      "NEET", "TROLL", "TRENCHER"]
   },
   {
   "platform": "vertex",
