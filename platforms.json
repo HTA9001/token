@@ -1,0 +1,268 @@
+[
+  {
+    "platform": "kiloex-opbnb",
+    "type": "合约",
+    "pairs": [
+      "BTC", "ETH", "SOL", "XRP", "SUI", "SHELL", "VANA", "ALCH", "ARC", "LAYER",
+      "BNB", "LTC", "S", "ARB", "PEPE", "SHIB", "FLOKI", "OP", "APE", "IMX",
+      "CFX", "DOGE", "AVAX", "ADA", "LINK", "POL", "NEAR", "FIL", "INJ", "RENDER",
+      "TIA", "SEI", "STRK", "ORDI", "AXL", "DYDX", "PYTH", "WLD", "DYM", "JUP",
+      "CAKE", "MANTA", "PENDLE", "ALT", "XAI", "WIF", "W", "JTO", "AEVO", "ENA",
+      "MEME", "ETHFI", "APT", "BOME", "STX", "ARKM", "RUNE", "TNSR", "UNI", "CHZ",
+      "LDO", "ZRO", "DOT", "ZK", "IO", "BLUR", "AAVE", "MKR", "TAO", "TON", "NOT",
+      "BONK", "CATI", "EIGEN", "DOGS", "TURBO", "BABYDOGE", "SCR", "SAGA", "HMSTR",
+      "POPCAT", "UXLINK", "ACT", "PNUT", "MOODENG", "GOAT", "DEGEN", "HIPPO",
+      "CHILLGUY", "ONDO", "BAN", "GRASS", "ME", "XLM", "CHEEMS", "PENGU",
+      "USUAL", "VIRTUAL", "COW", "BIO", "AI16Z", "TRUMP","BMT", "BR", "MUBARAK",
+      "MELANIA", "GRIFFAIN", "BERA", "CGPT", "KAITO", "IP", "TRB", "BCH",
+      "FET", "ENS", "PEOPLE", "CRV", "GALA", "STORJ", "RED", "PARTI",
+      "PROMPT", "BANANAS31", "BROCCOLI714", "SIREN", "BABY", "WAL", "FARTCOIN", "RFC", "BIGTIME",
+      "ATH", "TUT", "PAXG", "REZ", "MEW","SIGN","SOLAYER","SKYAI","ZEREBRO","KILO","LISTA",
+      "BROCCOLIF3B", "STO", "NXPC", "B2","B","INIT","REX"
+    ]
+  },
+  
+  {
+    "platform": "Gate-多币",
+    "type": "借贷",
+    "pairs": [
+      "GT", "POINT", "DOGE", "XRP", "BCH", "FIL", "DOT",
+      "LTC", "BNB", "UNI", "BSV", "EOS", "TRX", "LINK", "ADA", "ZEC", "AAVE",
+      "SUSHI", "ETC", "ONT", "NEO", "DASH", "ZKS", "AVAX", "ATOM", "OKB", "OKT",
+      "QTUM", "BTM", "LRC", "ZEN", "KSM", "LUNA", "XTZ", "SOL", "FORTH", "THETA",
+      "CHZ", "DODO", "COMP", "SKL", "FLOW", "MDX", "GRIN", "SRM", "SERO", "TFUEL",
+      "NKN",  "BCD", "REN", "BADGER", "NEAR", "HBAR", "ZIL", "CHR", "LIT",
+      "BEAM", "BAT", "KAVA", "KLAY", "FTM", "RAY", "ONE", "ALPHA", "ALPACA", "ARPA",
+      "KAI", "AR", "HT", "YGG", "C98", "KAR", "JASMY", "SLP", "MLN",
+      "QNT", "BOND", "BZZ", "O3", "KEEP", "MINA", "CSPR", "DOGGY", "ICP", "NFT",
+      "PIG", "PET", "PNT", "CQT", "XEC", "WSG", "SDAO", "EFI", "PLA", "FIS",
+      "ACH", "SPS", "TLM", "RLC", "WIKEN", "XCH", "ARES", "WSIENNA", "LION", "DOG",
+      "USDC", "HORD", "LEMD", "USD", "GALA", "ISP", "STARL", "ALCX", "GHST", "AKRO",
+      "POLY", "DF", "WHALE", "SHFT", "HNT", "FTT", "ERG", "OCEAN", "WXT", "VELO",
+      "REQ", "RAD", "MBOX", "WNCG", "RARI", "HMT", "BIT", "CART", "IOTX", "SNT",
+      "MTV", "HAI", "DDOS", "AKITA", "SHIB", "FLY", "TKO", "RIF", "FOR", "TWT",
+      "BOSON", "NULS", "STRAX", "STR", "TVK", "TOMO", "GAS", "CVC", "UTK", "KNC",
+      "VTHO", "IOTA", "STAKE", "INJ", "FLM", "STMX", "TCT", "PUNDIX", "BAO", "FRA",
+      "STX", "HIT", "AXS", "ZEE", "PRQ", "FTI", "FUN", "RUNE", "NEST", "DOCK",
+      "XVG", "PERL", "BAND", "OXT", "NMR", "TORN", "MITH", "CTSI", "INSUR", "CTK",
+      "SPI", "BTCST", "MTL", "KEY", "DREP", "FIC", "TRIBE", "FEI", "WRX", "PMON",
+      "RAI", "IDV", "DORA", "TIDAL", "EPS", "AUTO", "COOK", "FET", "RSR", "DENT",
+      "SC", "CRU", "PROPS", "XYO", "SUNNY", "SWRV", "HEGIC", "DYDX", "GNO", "CRP",
+      "AGLD", "CELO", "OCT", "SDN", "EPK", "EDEN", "WAXP", "MOVR", "WILD", "COTI",
+      "ICX", "SAND", "CRO", "ASD", "CONV", "AUDIO", "OMI", "ANKR", "STORJ", "BLES",
+      "OGN", "TARA", "RAMP", "ERN", "PERP", "ALICE", "ANC", "SUPER", "AUCTION", "REEF",
+      "JULD", "RVN", "VET", "STAR", "YIELD", "VRA", "MANA", "ALN", "RNDR", "XYM",
+      "LINA", "OXY", "HAPI", "XVS", "JGN", "DEGO", "IOST", "FIRO", "AERGO", "MATIC",
+      "KIN", "WOO", "PHA", "SUN", "HOT", "BAKE", "MASK", "CAKE", "FRONT", "DAO",
+      "SXP", "FXS", "TIPS", "MAPS", "FARM", "MKR", "SNX", "NU", "ZRX", "MIR",
+      "LPT", "WICC", "TRU", "POLS", "MXC", "ENJ", "EGLD", "YAM", "BAC", "BAS",
+      "LON", "POND", "NBS", "BTS", "GRT", "XMR", "API3", "XLM", "WAVES", "CFX",
+      "PEARL", "OM", "OMG", "WIN", "JST", "ANT", "IRIS", "CKB", "LAMB", "VIDY",
+      "ALGO", "MBL", "LEO", "ATP", "MDA", "AE", "NAS", "YFII", "YFI", "CRV",
+      "1INCH", "SAFEMOON", "SAFEMARS", "XPR", "XPRT", "WOZX", "CYS", "SLIM", "KIMCHI",
+      "ONG", "BLZ", "CELR", "QRDO", "SYS", "WEMIX", "FEG", "SPELL", "KISHU", "ELON",
+      "LSS", "CHESS", "ASM", "BNC", "DVI", "RACA", "RLY", "RFOX", "FLOKI", "SWASH",
+      "BABYDOGE", "ATLAS", "SCLP", "HERO", "BNX", "EXRD", "IMX", "QUACK", "ENS", "CERE",
+      "TONCOIN", "GM", "KDA", "BICO", "PEOPLE", "OOKI", "CWEB", "BLOK", "METIS", "SOS",
+      "PYR", "ROSE", "FLUX", "LOOKS", "GLMR", "SUKU", "ACA", "FIDA", "BENQI", "RSS3",
+      "UMEE", "ASTR", "T", "DIA", "GARI", "APE", "GMT", "MFT", "POLC", "QUICK",
+      "HIGH", "BSW", "CTX", "SPA", "LOKA", "KONO", "DATA", "ANML", "EGS", "XCN",
+      "NYM", "GST", "DAR", "FITFI", "VOXEL", "NEXO", "MOB", "MTRG", "ALPINE", "AVA",
+      "GAL", "OP", "ASR", "WING", "LTO", "ATA", "UNFI", "LUNC", "USDD", "CEEK",
+      "AIOZ", "VGX", "LDO", "STG", "DC", "REDTOKEN", "ETHW", "SWEAT", "CRPT", "APT",
+      "XDB", "EVER", "HFT", "SANTOS", "PROS", "PORTO", "LAZIO", "SSV", "NEBL", "RARE",
+      "UFT", "OSMO", "HOOK", "MAGIC", "BONK", "FLR", "AGIX", "CORE", "RPL", "BLUR",
+      "CVP", "LQTY", "SYN", "JOE", "ID", "GPT", "GFT", "ARB", "OAX", "OG",
+      "CNNS", "PEPE", "AIDOGE", "POLYX", "HIFI", "SHIBAI", "WOJAK", "TOMI", "GNS", "SUI",
+      "TURBO", "POGAI", "ORDI", "VMPX", "EDU", "CETUS", "LADYS", "XRD", "XEN", "ACS",
+      "SQUAD", "MONG", "ASTRA", "SAMO", "IGU", "PEPEBRC", "KAS", "PENDLE", "ARKM", "WLD",
+      "SEI", "CYBER", "BIGTIME", "ORBS", "TIA", "SATS", "RATS", "PYTH", "FLIP",
+      "GROK", "JTO", "SOLS", "DOGI", "BTCS", "MUBI", "CSAS", "BNSX", "ATOMARC", "1CAT",
+      "ETHS", "DUEL", "XAI", "ZKF", "NADA", "AI", "MANTA", "TRB", "MAV", "ONDO",
+      "ICE", "UMA", "ALT", "DMAIL", "JUP", "ZETA", "DYM", "MAVIA", "BOBA", "LENDS",
+      "SAROS", "FIO", "PIXEL", "STRK", "BCUT", "AGI", "SLN", "PNG", "PORTAL", "BBL",
+      "WAXL", "FAR", "MYRO", "WIF", "SCA", "FORT", "NIBI", "AEVO", "STARHEROES", "PATEX",
+      "BOME", "ZBC", "TURT", "MOBILE", "IQ50", "PRIME", "ETHFI", "ZK", "SNAP", "SLERF",
+      "IQ", "GF", "BONE", "MPC", "DMTR", "IDEX", "VENOM", "TOKEN", "TON", "GFI",
+      "LAI", "PORT3", "FLT", "SIDUS", "MPLX", "MPL", "VELODROME", "AERO", "MNT", "ROOT",
+      "XDC", "REI", "BRAWL", "MEW", "ENA", "W", "ELA", "DEGEN", "ZEUS", "XAR",
+      "EVERY", "TNSR", "SAGA", "BLOCK", "ESE", "MASA", "TAO", "FOXY", "PBR", "PRCL",
+      "SEAM", "OMNI", "MERL", "SATOSHI", "AKT", "KARRAT", "SAFE", "PBUX", "WEN", "COQ",
+      "MSN", "REZ", "ZEROLEND", "MODE", "PMG", "LBR", "BB", "FURY", "NOT", "MAPO",
+      "CTA", "NYAN", "DRIFT", "GEAR", "BRETT", "OAS", "MAGA", "VINU", "GOAL", 
+      "ELIX", "BEER", "JENNER", "ULTI", "TAIKO", "PSTAKE", "GME", "BENDOG", "ALU", "MOG",
+      "PONKE", "LEVER", "IO", "ATH", "XZK", "ELF", "LISTA", "SPEC", "ZRO", "MANEKI",
+      "PIRATE", "ZKJ", "ZCX", "NRN", "ADF", "ZELIX", "BLAST", "POPCAT", "WELL3", "KMNO",
+      "PIZZA", "FIGHT", "DOP", "FTN", "TAI", "GOMD", "MEMETOON", "BOMB", "QUBIC", "SEAT",
+      "A8", "APU", "NIZA", "PEIPEI", "ZBU", "UXLINK", "PIXFI", "BANANA", "FEARNOT", "MOTHER",
+      "STRUMP", "ZKL", "AVAIL", "LRDS", "TRUMPCOIN", "RENDER",  "L3", "MEME", "MAX",
+      "POWR", "NEIROETH", "G", "SUNDOG", "CAT", "DOGS", "ORDER", "CLOUD", "POL", "FB",
+      "NEIROCTO", "ALEO", "BILLY", "CATI", "SOCIAL", "HMSTR", "COS", "EIGEN", "MOODENG", "USTC",
+      "HIPPO", "CATS", "CARV", "MOODENGETH", "HAMSTER", "DEEP", "PUFFER", "STORM", "WHY", "EPX",
+      "DBR", "PUFF", "GOAT", "MEDUSA", "LUMIA", "SCR", "X", "WELL", "PROM", "GRASS",
+      "AURORA", "TROY", "KAIA", "ARCA", "COW", "SMILE", "TRUMP", "SWELL", "PNUT", "GODL",
+      "ACT", "BEAMX", "RBTC", "PEAQ", "PGC", "NOOB", "CTC", "BAN",
+      "PAAL", "FWOG", "NS", "AIFUN", "USDE", "HAPPY", "SOLO", "SCRT", "LMWR", "BTF",
+      "OL", "UROLITHINA", "SCIHUB", "ELIZA", "RIFSOL", "VIRTUAL", "CHILLGUY", "MORPHO", "ASI", "DADDY",
+      "APEPE", "MEMEFI", "LL", "BARSIK", "ZRC", "RWA", "HSK", "KIMA", "THE",
+      "SUPRA", "CHEEMS", "MAJOR", "MGT", "ZBCN", "CATDOG", "CVX", "VEXT", "AIXBT", "SWFTC",
+      "CPOOL", "AMP", "GOATS", "XION", "ACX", "ORCA", "F", "SPX", "DEAI", "BGSC",
+      "MOVE", "KOMA", "MOZ", "U2U", "ME", "SEND", "ZEREBRO", "MONKY", "LINGO", "ADX",
+      "BLUE", "SUIAI", "MOCA", "OVER", "VANA", "HOLD", "STREAM", "PENGU",  "APX",
+      "AI16Z", "USUAL", "SYRUP", "CGPT", "RDNT", "FARTCOIN", "SOON", "HYPE", "HIVE", "DEXE",
+      "REX", "GRIFFAIN", "FLOCK", "KEKIUS", "AVAAI", "COOKIE", "TAOCAT", "BIO", "SWARMS", "ALCH",
+      "ELIZASOL", "MTOS", "SONIC", "AIPUMP", "BUZZ", "LAVA", "D", "DRV",
+      "GPS", "DUCK", "CLAY", "SOLV", "NC", "ARC", "MELANIA", "MAGATRUMP", "S", "OBT",
+      "PLUME", "1DOLLAR", "N3", "J", "QKC", "YULI", "VINE", "ANIME", "PIPPIN", "SOSO",
+      "HAT", "TOSHI", "VVV", "JELLYJELLY", "BERA", "FUEL", "TSTBSC", "ANLOG", "B3", "JAILSTOOL",
+      "LAYER", "DIAM", "AVL", "G7", "IP", "SHELL", "BROCCOLI", "GLM", "DUKO", "PI",
+      "KAITO", "AIC", "ZOO", "ROAM", "RED", "ELX", "REZ", "BABY"
+    ]
+  },
+    
+  {
+    "platform": "GMX",
+    "type": "合约",
+    "pairs": [
+      "BTC", "ETH", "SOL", "LINK", "BERA", "GMX", "XRP", "DOGE", "AAVE", "ARB",
+      "MELANIA", "RENDER", "FARTCOIN", "TAO", "UNI", "AVAX", "PEPE", "ADA", "ENA", "SUI",
+      "LTC", "WIF", "TRUMP", "DOT", "NEAR", "BNB", "LDO", "AI16Z", "PENDLE", "ONDO",
+      "ATOM", "OP", "BONK", "SATS", "SEI", "VIRTUAL", "SHIB", "INJ", "FLOKI", "ICP",
+      "JUP", "BCH", "CAKE", "XLM", "PENGU", "EIGEN", "ORDI", "FIL", "TON", "STX",
+      "FET", "POL", "AIXBT", "BOME", "S", "TRX", "TIA", "APT", "HYPE", "WLD",
+      "APE", "DYDX", "MEW", "MEME", "ANIME", "MKR", "OM","DOLO","ZRO", "CRV", "MOODENG"
+      ,"PI","XMR"
+    ]
+  },
+  {
+    "platform": "kiloex-base",
+    "type": "合约",
+    "pairs": [
+      "BTC", "ETH", "SOL", "XRP", "SUI", "SHELL", "VANA", "ALCH", "ARC", "LAYER",
+      "BNB", "LTC", "S", "PEPE", "SHIB", "DOGE", "AVAX", "TIA", "STRK", "PYTH",
+      "JUP", "WIF", "ENA", "APT", "CHZ", "BONK", "EIGEN", "BRETT", "SAGA", "HMSTR",
+      "POPCAT", "UXLINK", "ACT", "PNUT", "MOODENG", "GOAT", "DEGEN", "HIPPO",
+      "CHILLGUY", "ONDO", "BAN", "GRASS", "ME", "XLM", "PENGU", "USUAL",
+      "VIRTUAL", "COW", "BIO", "AI16Z", "TRUMP", "MELANIA",
+      "GRIFFAIN", "BERA", "CGPT", "KAITO", "IP", "RED"
+    ]
+  },
+  {
+    "platform": "kiloex-manta",
+    "type": "合约",
+    "pairs": [
+      "BTC", "ETH", "SOL", "XRP", "SUI", "BNB", "LTC", "ARB", "PEPE", "SHIB",
+      "FLOKI", "OP", "DOGE", "AVAX", "LINK", "POL", "FIL", "INJ", "RENDER", "TIA",
+      "SEI", "STRK", "ORDI", "AXL", "DYDX", "PYTH", "WLD", "JUP", "MANTA",
+      "PENDLE", "ALT", "XAI", "WIF", "MEME", "BOME", "AAVE", "NOT", "BONK", "DOGS",
+      "TURBO", "ACT", "PNUT", "CHEEMS", "TRB", "PEOPLE"
+    ]
+  },
+  {
+    "platform": "Bybit质押借币",
+    "type": "合约",
+    "pairs": [
+    "SOL", "XRP", "MANA", "DOT", "ADA", "USDC", "XLM", "LINK",
+    "EOS", "APT", "BNB", "ETC", "ATOM", "AVAX", "DOGE", "APE",
+    "CHZ", "NEAR", "SHIB", "TRX", "SAND", "GMT", "FIL", "OP",
+    "ALGO", "UNI", "AAVE", "SUSHI", "ENS", "DYDX", "AXS", "GALA",
+    "ICP", "QNT", "STETH", "SUI", "PEPE", "MNT", "WLD", "SEI",
+    "MAGIC", "HFT","ARKM", "HBAR", "INJ", "LUNC", "YFI",
+    "CRV", "BCH", "FLOW", "GRT", "IMX", "JASMY", "COMP", "BICO",
+    "EGLD", "BAT", "ZRX", "ZIL", "DAI", "CORE", "BLUR", "LDO",
+    "ARB", "AR", "SLP", "THETA", "STG", "TIA", "MEME", "PYTH",
+    "METH", "ORDI", "SNX", "GMX", "MASK", "MINA", "RDNT", "1INCH",
+    "SSV", "JTO", "RUNE", "STX", "ROSE", "CAKE", "TON", "WOO",
+    "KSM", "CELO", "ANKR", "ETHW", "XTZ", "LRC", "AGLD", "MKR",
+    "BONK", "HOOK", "KAVA", "KDA", "PEOPLE", "PERP", "TWT", "C98",
+    "MANTA", "ΧΑΙ", "PENDLE","ZETA", "JUP", "ACH", "STRK",
+    "DYM", "AXL", "ALT", "FLOKI", "PORTAL", "ETHFI", "BOME", "ONE",
+    "SATS", "RVN", "FLR", "AEVO", "W", "ENA", "ONDO", "TNSR",
+    "MERL", "USDE", "WIF", "MEW", "MOVR", "LEVER",
+    "OMNI", "VANRY", "NOT", "ENJ", "IO", "E", "ZK",
+    "ZRO", "ATH", "ZEN", "RENDER", "DOGS", "CATI", "HMSTR", "EIGEN",
+    "POL", "BBSOL", "SCR", "POPCAT", "BRETT", "MOG", "BABYDOGE",
+    "BLAST", "XEC", "SC", "FIDA", "KAS", "CTC", "TAIKO", "PRCL",
+    "MYRO", "ME", "MOVE", "DRIFT", "GOAT", "CMETH", "TRUMP", "GRASS",
+    "PUFFER", "MORPHO", "PNUT", "VIRTUAL"
+    ]
+  },
+  {
+    "platform": "Bybit借贷易",
+    "type": "合约",
+    "pairs": [
+    "SOL", "BNB", "ETH", "XRP", "ATOM", "TIA", "APE", "GMT", 
+    "INJ", "DOGE", "FLOKI", "TRUMP", "PEPE", "ZETA", "ZK", 
+    "MNT", "CHZ", "HMSTR", "BBSOL", "USDC", "MINA", "BLAST", 
+    "NOT", "ONDO", "TON", "ATH", "DOGS", "AXS", 
+    "ENA", "VANA", "LTC"
+    ]
+  },
+  {
+    "platform": "Vest",
+    "type": "合约",
+    "pairs": [
+      "AAVE", "AIXBT", "ANIME", "APT", "AVAX", "BERA", "BNB", "BTC",
+      "DOGE", "ENA", "ETH", "INJ", "JTO", "JUP", "KAITO", "kBONK",
+      "kNEIRO", "kPEPE", "MELANIA", "MKR", "PENDLE", "RUNE", "SEI",
+      "SOL", "SUI", "TIA", "TON", "TRUMP", "TST", "UNI", "W", "WIF",
+      "WLD", "XRP", "ZK", "ZRO","WCT"
+    ]
+  },
+  {
+    "platform": "Gains",
+    "type": "合约",
+    "pairs": [
+      "1INCH", "AAVE", "ACT", "ADA", "AEVO", "AI16Z", "AIXBT", "ALGO", "ALICE",
+      "ALPH", "ALT", "ANKR", "ANIME", "APE", "API3", "APT", "APU", "ARB", "AVAX",
+      "BAT", "BEAM", "BERA", "BIO", "BLUR", "BMT", "BNB", "BNX", "BOME", "BONK",
+      "BRETT", "BTC", "BTCDEGEN", "CAKE", "CELO", "CFX", "CHEEMS", "CHILLGUY",
+      "DASH", "DEGEN", "DOGE", "DOGS", "DOT", "DYDX", "DYM", "EGLD", "EIGEN",
+      "ELX", "ENA", "ENS", "EOS", "ETC", "ETHDEGEN", "ETH", "ETHFI", "FARTCOIN",
+      "FET", "FIL", "FLOKI", "FLOW", "FLUX", "FXS", "GALA", "GMX", "GMT", "GOAT",
+      "GRASS", "GRIFFAIN", "GRT", "HBAR", "HIPPO", "HMSTR", "HOT", "HYPE", "ICP",
+      "ILV", "IMX", "INJ", "IO", "IOTX", "IP", "JASMY", "JTO", "JUP", "KAITO",
+      "KAS", "KSM", "LAYER", "LDO", "LINK", "LISTA", "LOOM", "LTC", "MAGIC",
+      "MANA", "MANTA", "MASK", "MAVIA", "ME", "MELANIA", "MEME", "MERL", "METIS",
+      "MEW", "MINA", "MKR", "MNT", "MOG", "MOODENG", "MOTHER", "MOVE", "MYRO",
+      "NEAR", "NEIRO", "NEIROCTO", "NEO", "NMR", "NOT", "NTRN", "OM", "OMNI",
+      "ONDO", "OP", "ORBS", "ORDI", "OSMO", "PENDLE", "PENGU", "PEOPLE", "PEPE",
+      "PI", "PIXEL", "PLUME", "PNUT", "POL", "POLYX", "PONKE", "POPCAT", "PRCL",
+      "PYTH", "QNT", "QTUM", "RARE", "RATS", "RAY", "RDNT", "REZ", "RNDR", "RONIN",
+      "ROSE", "RPL", "RSR", "RUNE", "RVN", "S", "SAGA", "SAND", "SATS",
+      "SC", "SEI", "SHELL", "SHIB", "SKL", "SLERF", "SNX", "SOL", "SOLDEGEN",
+      "SOLV", "SPX", "SSV", "STG", "STORJ", "STRK", "STX", "SUI", "SUN", "SUNDOG",
+      "SUPER", "SWARMS", "SYN", "SYS", "TAO", "THETA", "TIA", "TNSR", "TON",
+      "TOSHI", "TRB", "TRUMP", "TRX", "TST", "TURBO", "TWT", "UMA", "UNI", "USUAL",
+      "VET", "VINE", "VIRTUAL", "VVV", "W", "WIF", "WLD", "WOO", "XLM", "XRP",
+      "XTZ", "YFI", "ZEC", "ZEN", "ZEREBRO", "ZETA", "ZEUS", "ZIL", "ZK", "ZRO", "ZRX"
+    ]
+  },
+  {
+    "platform": "lighter",
+    "type": "合约",
+    "pairs": [
+      "BERA", "TRUMP", "DOGE", "APT", "XRP", "HYPE", "IP", "BNB", "ETH", "WLD",
+      "SUI", "WIF", "kFLOKI", "kPEPE", "AAVE", "LTC", "AVAX", "TAO", "BTC",
+      "SOL", "LINK", "NEAR", "DOT", "TON", "POL", "kSHIB", "kBONK", "AI16Z",
+      "POPCAT", "JUP", "MKR", "ENA", "UNI", "SEI", "KAITO", "FARTCOIN"
+    ]
+  },
+  {
+    "platform": "myx",
+    "type": "合约",
+    "pairs": ["ETH", "BNB", "BTC", "RFC", "titcoin"]
+  },
+  {
+  "platform": "vertex",
+  "type": "合约",
+  "pairs": [
+    "AAVE", "APT", "ARB", "AVAX", "BCH", "BERA", "BLUR", "BNB", "BTC", "COMP",
+    "CRV", "DOGE", "DOT", "DYDX", "EIGEN", "ENA", "ETH", "FIL", "GALA", "GMCI30",
+    "GMMEME", "GOAT", "IMX", "INJ", "JTO", "JUP", "LDO", "LINK", "LTC", "MEME",
+    "MKR", "MNT", "mPEPE", "NEAR", "ONDO", "OP", "POL", "PYTH", "SEI", "SNX",
+    "SOL", "SUI", "S", "TON", "TRUMP", "TRX", "TIA", "WIF", "WLD", "XRP"
+    ]
+  }
+  
+]
